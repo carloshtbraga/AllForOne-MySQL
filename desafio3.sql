@@ -1,0 +1,1 @@
+Select PRIMARY_KEY from products;
