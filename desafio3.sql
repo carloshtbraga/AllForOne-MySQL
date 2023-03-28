@@ -1,1 +1,1 @@
-Select PRIMARY_KEY from products;
+SELECT id FROM products;
