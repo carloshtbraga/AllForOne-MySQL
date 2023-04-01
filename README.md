@@ -22,9 +22,9 @@
 <h1 align='center'>Tecnologias utilizadas</h1>
 
 
-                                                   - MySQL
-                                                   - Docker
-                                                   - MySQL Workbench
+                                                - MySQL
+                                                - Docker
+                                                - MySQL Workbench
 
 <h1 align='center'>Como executar o projeto</h1>
 
