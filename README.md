@@ -57,10 +57,10 @@ $ docker-compose up -d
 <h1 align='center'>Arquivos Desenvolvidos</h1>
 
 
-<p align='center'>database/: arquivo .sql para criar e popular o banco de dados Northwind
-queries/: diversas queries SQL para manipulação de dados no banco Northwind
-Como Contribuir
-Você pode contribuir com o projeto criando novas queries, melhorando a estrutura do projeto ou sugerindo novas funcionalidades. Para isso, siga os passos abaixo:
+<p align='center'>Usei um arquivo sql para criar e popular o banco de dados Northwind
+e gerei diversas queries SQL para manipulação de dados
+
+
 </p>
 <h1 align='center'>Faça um fork do projeto</h1>
 
